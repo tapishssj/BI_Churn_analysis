@@ -1,3 +1,7 @@
+
+
+<img width="608" alt="Capture" src="https://github.com/tapishssj/BI_Churn_analysis/assets/88665615/9934887a-ef9e-4553-bde2-24dfb52c533e">
+
 # BI_Churn_analysis
 Customer Churn analysis in banking domain using business intelligence tool
 
@@ -13,3 +17,4 @@ Customer Churn analysis in banking domain using business intelligence tool
 9. Enchanced and organised the UI for crisp understanding.
 10. Implemented RLS according to the geographic regions.
 11. Created workspace and provided the workspace access and published the report to the workspace.
+
